@@ -1,1 +1,1 @@
-I have learnt how to practically use html and work with headers, paragraphs and an unordered list along with sections and a footer. Along with this i have learnt how to work with git and gihub.I worked with creating and manipulating a repository and later deploying the website i created.
+I have learnt how to practically use html and work with headers, paragraphs and an unordered list along with sections and a footer. Along with this i have learnt how to work with git and gihub.I worked with creating and manipulating a repository and later deploying the website I created.
